@@ -1,0 +1,144 @@
+/*Covenant T. Elijah*/
+
+.show {
+	display: inherit;
+}
+.hidden {
+	display: none;
+}
+
+.fh5co-loader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url(../img/apple-touch-icon.png) center no-repeat #fff;
+}
+
+.fh5co-loader2 {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url(../../loader.gif) center no-repeat #fff;
+}
+
+        .spinner {
+            margin: 30px auto 50px;
+            width: 40px;
+            height: 40px;
+            position: relative;
+            text-align: center;
+            -webkit-animation: sk-rotate 1.0s infinite linear;
+            animation: sk-rotate 1.0s infinite linear;
+        }
+        .dot1, .dot2 {
+            width: 60%;
+            height: 60%;
+            display: inline-block;
+            position: absolute;
+            top: 0;
+            background-color: #2196F3;
+            border-radius: 100%;
+            -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
+            animation: sk-bounce 2.0s infinite ease-in-out;
+        }
+        .dot2 {
+            top: auto;
+            bottom: 0;
+            -webkit-animation-delay: -1.0s;
+            animation-delay: -1.0s;
+        }
+        @keyframes sk-rotate {
+            100% {
+                transform: rotate(360deg);
+                -webkit-transform: rotate(360deg);
+            }
+        }
+        @keyframes sk-bounce {
+            0%, 100% {
+                transform: scale(0);
+                -webkit-transform: scale(0);
+            }
+
+            50% {
+                transform: scale(1);
+                -webkit-transform: scale(1);
+            }
+        }
+
+#backtobottom i {
+	display: block;
+    width: 100%;
+    height: 100%;
+    line-height: inherit;
+}
+
+#backtobottom {
+	z-index: 2000;
+    display: inline-block;
+    position: fixed;
+    visibility: hidden;
+    bottom: 350px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+    text-align: center;
+    opacity: .2;
+    border-radius: 50%;
+    cursor: pointer;
+    animation: 2s ease 0s infinite normal none running pulse;
+}
+
+#backtobottom {
+    color: #FFFFFF;
+    background-color: #2196f3;
+}
+
+#backtobottom.visible {
+    visibility: visible;
+    opacity: .8;
+}
+
+@media (min-width: 320px) and (max-width: 991px){
+    .gist {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        width: 25px;
+        height: 25px;
+        background: #f0d24b;        
+        border-radius: 100%;
+        box-shadow: 5px 0 10px 0 rgba(0,0,0,.04);
+        margin-top: -40px;
+        margin-left: 15px;
+        color: black;
+        text-align: center;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 2560px){
+    .gist {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        width: 25px;
+        height: 25px;
+        background: #f0d24b;
+        border-radius: 100%;
+        box-shadow: 5px 0 10px 0 rgba(0,0,0,.04);
+        margin-top: -90px;
+        margin-left: 35px;
+        color: black;
+        text-align: center;
+    }
+}
+

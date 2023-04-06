@@ -1,0 +1,428 @@
+/*Covenant T . Elijah*/
+
+/*Active*/
+
+@media(min-height : 320px) {
+    .main .chat .content {
+        height : 100px;
+    }
+
+    .main .call .content {
+        height : 280px;
+    }
+
+    #chat1 {
+        height : calc(100vh - 40px);
+    }
+    .mini {
+        height: 0; display: none;
+    }
+    .main .chat .bottom {
+        display: flex;
+        align-items: center;
+        padding: 30px 0!important;
+        /*border-top: 1px solid #2f3336;*/
+    }
+}
+
+@media(min-height : 360px) {
+    .main .chat .content {
+        height : 120px;
+    }
+
+    .main .call .content {
+        height : calc(100vh - 0px);
+    }
+
+    #chat1 {
+        height : calc(100vh - 50px);
+    }
+    .mini {
+        height: 0; display: none;
+    }
+    .main .chat .bottom {
+        display: flex;
+        align-items: center;
+        padding: 30px 0!important;
+        /*border-top: 1px solid #2f3336;*/
+    }
+}
+
+@media(min-height : 480px) {
+    .main .chat .content {
+        height : 240px;
+    }
+
+    .main .call .content {
+        height : 590px;
+    }
+
+    #chat1 {
+        height : calc(100vh - 50px);
+    }
+    .mini {
+        height: 0; display: none;
+    }
+    .main .chat .bottom {
+        display: flex;
+        align-items: center;
+        padding: 30px 0!important;
+        /*border-top: 1px solid #2f3336;*/
+    }
+}
+@media(max-height : 533px) {
+    .col-md-12{
+        margin-top: 25px!important;
+    }
+}
+@media(min-height : 533px) {
+    .main .chat .content {
+        height : 300px;
+    }
+
+    .main .call .content {
+        height : 590px;
+    }
+
+    #chat1 {
+        height : calc(100vh - 92px);
+    }
+    .mini {
+        height: 0; display: none;
+    }
+    .main .chat .bottom {
+        display: flex;
+        align-items: center;
+        padding: 30px 0!important;
+        /*border-top: 1px solid #2f3336;*/
+    } 
+}
+
+@media(min-height : 568px) {
+    .main .chat .content {
+        height : 328px;
+    }
+
+    .main .call .content {
+        height : 590px;
+    }
+
+    #chat1 {
+        height : calc(100vh - 50px);
+    }
+    .mini {
+        height: 0; display: none;
+    }
+     
+}
+
+@media(min-height : 640px) {
+    .main .chat .content {
+        height :400px;
+    }
+
+    .main .call .content {
+        height : 590px;
+    }
+
+    #chat1 {
+        height : calc(100vh - 50px);
+    }
+    .mini {
+        height: 0; display: none;
+    }
+}
+
+@media(min-height : 653px) {
+    .main .chat .content {
+        height :413px;
+    }
+
+    .main .call .content {
+        height : 603px;
+    }
+
+    #chat1 {
+        height : calc(100vh - 50px);
+    }
+    .mini {
+        height: 0; display: none;
+    }
+}
+
+@media(min-height : 667px) {
+    .main .chat .content {
+        height :427px;
+    }
+
+    .main .call .content {
+        height : 617px;
+    }
+
+    #chat1 {
+        height : calc(100vh - 50px);
+    }
+    .mini {
+        height: 0; display: none;
+    }
+}
+
+@media(min-height : 720px) {
+    .main .chat .content {
+        height :480px;
+    }
+
+    .main .call .content {
+        height : 670px;
+    }
+
+    #chat1 {
+        height : calc(100vh - 50px);
+    }
+    .mini {
+        height: 0; display: none;
+    }
+}
+
+@media(min-height : 732px) {
+    .main .chat .content {
+        height : 492px;
+    }
+
+    .main .call .content {
+        height : 682px;
+    }
+
+    #chat1 {
+        height : calc(100vh - 50px);
+    }
+    .mini {
+        height: 0; display: none;
+    }
+}
+
+@media(min-height : 736px) {
+    .main .chat .content {
+        height :496px;
+    }
+
+    .main .call .content {
+        height : 686px;
+    }
+
+    #chat1 {
+        height : calc(100vh - 50px);
+    }
+    .mini {
+        height: 0; display: none;
+    }
+}
+
+@media(min-height : 812px) {
+    .main .chat .content {
+        height :572px;
+    }
+
+    .main .call .content {
+        height : 762px;
+    }
+
+    #chat1 {
+        height : calc(100vh - 50px);
+    }
+    .mini {
+        height: 0; display: none;
+    }
+}
+
+@media(min-height : 823px) {
+    .main .chat .content {
+        height : 583px;
+    }
+
+    .main .call .content {
+        height : 773px;
+    }
+
+    #chat1 {
+        height : calc(100vh - 50px);
+    }
+    .mini {
+        height: 0; display: none;
+    }
+}
+
+@media(min-height : 854px) {
+    .main .chat .content {
+        height : 614px;
+    }
+
+    .main .call .content {
+        height : 804px;
+    }
+
+    #chat1 {
+        height : calc(100vh - 50px);
+    }
+    .mini {
+        height: 0; display: none;
+    }
+}
+
+@media(min-height : 1024px) {
+    .main .chat .content {
+        height :784px;
+    }
+
+    .main .call .content {
+        height : 974px;
+    }
+
+    #chat1 {
+        height : calc(100vh - 50px);
+    }
+    .mini {
+        height: 100%;
+    }
+}
+
+@media(min-width : 991px) {
+    .main .chat .content {
+        height : calc(100vh - 218px);
+    }
+
+/*
+    .main .call .content {
+        height : calc(100vh - 218px);
+    }
+*/
+    .mini {
+        height: 100%; display: block;
+    }
+}
+
+
+@media(width : 411px) and (height : 731px) {
+    .main .chat .content {
+        height : 491px;
+    }
+
+    .main .call .content {
+        height : 681px;
+    }
+
+    #chat1 {
+        height : calc(100vh - 50px);
+    }
+    .mini {
+        height: 0; display: none;
+    }
+}
+
+
+@media(width : 800px) and (height : 600px) {
+    .main .chat .content {
+        height : 350px;
+    }
+
+    .main .call .content {
+        height : 550px;
+    }
+
+    #chat1 {
+        height : calc(100vh - 50px);
+    }
+    .mini {
+        height: 100%;
+    }
+}
+
+
+@media(width : 600px) and (height : 960px) {
+    .main .chat .content {
+        height : 720px;
+    }
+
+    .main .call .content {
+        height : 910px;
+    }
+
+    #chat1 {
+        height : calc(100vh - 50px);
+    }
+    .mini {
+        height: 0; display: none;
+    }
+}
+
+/*@media(min-width : 991px) and (min-height : 800px) {
+    .main .chat .content {
+        height : calc(100vh - 218px);
+    }
+
+    .main .call .content {
+        height : calc(100vh - 218px);
+    }
+}*/
+
+@media(width : 1024px) and (height : 768px) {
+    .main .chat .content {
+        height : calc(100vh - 218px);
+    }
+
+    .main .call .content {
+        height : calc(100vh - 218px);
+    }
+    .mini {
+        height: 100%;
+    }
+}
+
+@media(width : 1280px) and (height : 800px) {
+    .main .chat .content {
+        height : calc(100vh - 218px);
+    }
+
+    .main .call .content {
+        height : calc(100vh - 218px);
+    }
+    .mini {
+        height: 100%;
+    }
+}
+
+
+@media(width : 720px) and (height : 1280px) {
+    .main .chat .content {
+        height : 1020px;
+    }
+
+    .main .call .content {
+        height : 1230px;
+    }
+
+    #chat1 {
+        height : 1230px;
+    }
+    .mini {
+        height: 0; display: none;
+    }
+}
+
+@media(width : 800px) and (height : 1280px) {
+    .main .chat .content {
+        height : 1020px;
+    }
+
+    .main .call .content {
+        height : 1230px;
+    }
+
+    #chat1 {
+        height : 1230px;
+    }
+    .mini {
+        height: 100%;
+    }
+}
+ 
