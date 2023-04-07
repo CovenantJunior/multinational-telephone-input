@@ -8,7 +8,7 @@ Designed with a focus on accessibility and ease of use, "multinational-telephone
 Whether you are building a web application, a mobile app, or any other software that requires telephone number inputs, "multinational-telephone-input" can help streamline your development process and enhance the user experience. With its comprehensive features and support for a wide range of countries, this package is a must-have for any developer looking to simplify their telephone number input process.
 
 ## Credits
-[intl-tel-input] (https://www.npmjs.com/package/intl-tel-input)
+[intl-tel-input](https://www.npmjs.com/package/intl-tel-input)
 
 
 ## Demo
