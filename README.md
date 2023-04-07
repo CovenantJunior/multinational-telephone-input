@@ -16,6 +16,11 @@ Whether you are building a web application, a mobile app, or any other software 
 https://multinational-telephone-input.vercel.app/
 
 
+## Preview
+
+Follow 👉🏻 [Preview](https://github.com/CovenantJunior/multinational-telephone-input/blob/master/preview.png)
+
+
 ## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
