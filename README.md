@@ -31,7 +31,7 @@ Please adhere to this project's `code of conduct`.
 
 ## Documentation
 
-[Documentation](https://https://github.com/CovenantJunior/multinational-telephone-input/Documentation.md)
+[Documentation](https://github.com/CovenantJunior/multinational-telephone-input/blob/master/Documentation.md)
 
 
 ## Installation
