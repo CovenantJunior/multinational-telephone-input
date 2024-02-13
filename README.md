@@ -59,7 +59,7 @@ Install my-project with Local Terminal
 ```
 ## Support
 
-For support, email covenanttope@gmail.com, or WhatsApp +2348154140492, or text +(133)12346245.
+For support, text +(133)12346245.
 
 
 ## Used By
